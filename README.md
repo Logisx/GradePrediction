@@ -12,6 +12,6 @@ G3 - final grade
 
 
 ## Run:
-1. Download packages from requirements.txt
+1. Install packages from requirements.txt
 2. Use Jupyter to open main.ipynb and go through all the commands consistently
    
